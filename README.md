@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeisonSanchezAraya
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning: Business Intelligence (Power BI), Java Spring Framework, Javascript (ReactJS), AWS, Microservices, Docker and Kubernetes, and others.
-- 💞️ I’m looking to collaborate on wi9th some examples just for fun and self-training
+- 💞️ I’m looking to collaborate on with some examples, just for fun and self-training
 - 📫 How to reach me jeisanchez@gmail.com
 
 <!---
